@@ -7,3 +7,6 @@ docker$ docker-compose up
 웹 브라우저를 켜서 webVNC 접속 (비번은 1111)
 ```
 http://localhost
+```
+
+<img src="figures/fig1.png" >
