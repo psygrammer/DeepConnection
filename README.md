@@ -9,4 +9,12 @@ docker$ docker-compose up
 http://localhost
 ```
 
-<img src="figures/fig1.png" >
+<img src="figures/fig1.png" width=600>
+<img src="figures/fig2.png" width=600>
+<img src="figures/fig3.png" width=600>
+<img src="figures/fig4.png" width=600>
+<img src="figures/fig5.png" width=600>
+<img src="figures/fig6.png" width=600>
+<img src="figures/fig7.png" width=600>
+<img src="figures/fig8.png" width=600>
+<img src="figures/fig9.png" width=600>
